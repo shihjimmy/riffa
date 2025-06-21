@@ -1,0 +1,1 @@
+vcs -f file_chnl.f -full64 -R -debug_access+all +v2k
